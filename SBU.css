@@ -3,7 +3,7 @@
 {{Color_1_Shade}}: 4B4B4B
 {{Color_2}}: 990000
 {{Color_2_Tint}}: D52027
-{{Logo_URL}}: vdssupport.github.io/StonyBrook/secondary_logo_color_on_black.jpg
+{{Logo_URL}}: vdssupport.github.io/StonyBrook/secondary_logo_color_on_blackv2.jpg
 */
 
 html {
@@ -24,7 +24,7 @@ header.header-main {
 }
 
 .logo {
-  background: url('//vdssupport.github.io/StonyBrook/secondary_logo_color_on_black.jpg') top center no-repeat;
+  background: url('//vdssupport.github.io/StonyBrook/secondary_logo_color_on_blackv2.jpg') top center no-repeat;
   display: inline-block;
   max-width: 400px !important;
   background-size: contain;
