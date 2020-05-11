@@ -141,10 +141,6 @@ table td {
     background: #BEBEBE;
 }
 
-body {
-    min-height: 100% !important;
-}
-
 .footer {
     background: #000000;	
 }
